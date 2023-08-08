@@ -12,3 +12,8 @@ function updateBoxShadow(){
     cssValue.value = v;
     box.style.boxShadow = v;
 }
+
+[x, y, blurRadius, blurSpread, color].forEach(element =>{
+    element.oninput = updateBoxShadow;
+})
+ updateBoxShadow()
