@@ -1,0 +1,13 @@
+.box{
+    width: 300px;
+    text-align: center;
+    padding: 16px;
+    margin: 32px;
+    font-family: sans-serif;
+}
+
+.box input {
+    margin: 8px 0;
+    display: block;
+    width: 100%;
+}
