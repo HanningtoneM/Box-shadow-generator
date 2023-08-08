@@ -4,7 +4,7 @@
 
 # Live Demo
 
-[Live Demo Link](https://hanningtonem.github.io/sunnySide-Agency/)
+[Live Demo Link](https://hanningtonem.github.io/Box-shadow-generator/)
 
 
 ## Built With
@@ -17,7 +17,7 @@ To get a local copy up follow these simple example steps.
 
 1. Clone this repository or download the Zip folder:
 
-**``git clone https://github.com/HanningtoneM/sunnySide-Agency.git``**
+**``https://github.com/HanningtoneM/Box-shadow-generator.git``**
 
 2. Navigate to the location of the folder in your machine:
 
