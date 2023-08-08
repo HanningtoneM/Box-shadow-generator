@@ -8,4 +8,7 @@ const cssValue = document.querySelector(".css-value")
 
 function updateBoxShadow(){
     const v = `${x.value}px ${y.value}px ${blurRadius.value}px ${blurSpread.value}px ${color.value}`
+
+    cssValue.value = v;
+    box.style.boxShadow = v;
 }
