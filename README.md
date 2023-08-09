@@ -9,7 +9,7 @@
 
 ## Built With
 
-- HTML, CSS, JavaScript
+- HTML, CSS, JavaScript.
 
 ## Getting Started
 
